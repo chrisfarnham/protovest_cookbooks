@@ -1,1 +1,1 @@
-cookbook_path [ 'cookbooks' ]
+cookbook_path [ '.' ]
